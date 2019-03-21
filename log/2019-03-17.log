@@ -1,0 +1,7 @@
+2019-03-17 20:02:49,496 - root - ERROR - type is not equal to 'json'--->normnal:<class 'type'>
+2019-03-17 20:04:29,654 - root - ERROR - type is not equal to 'json'--->normnal:<class 'type'>
+2019-03-17 20:06:24,002 - root - ERROR - Timeout value connect was 10, but it must be an int, float or None.normnal
+2019-03-17 20:07:27,372 - root - ERROR - Timeout value connect was 10, but it must be an int, float or None.normnal
+2019-03-17 20:28:30,647 - root - ERROR - Invalid URL 'httpbin.org/post': No schema supplied. Perhaps you meant http://httpbin.org/post?normnal
+2019-03-17 20:29:08,838 - root - ERROR - Invalid URL 'www.httpbin.org/post': No schema supplied. Perhaps you meant http://www.httpbin.org/post?normnal
+2019-03-17 21:10:05,044 - root - ERROR - C:\Users\Administrator\Desktop\interface\tests只允许有excel的测试用例1-->['C:\\Users\\Administrator\\Desktop\\interface\\tests', 'C:\\Users\\Administrator\\Desktop\\interface\\tests\\22']
